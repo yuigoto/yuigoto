@@ -12,6 +12,6 @@ Other interests of mine include: game development, photography, music production
 
 You can find some of my code below, but there's also tiny bits of me here and there around the web:
 
-[Twitter](https://twitter.com/go_go_goto) / [LinkedIn](https://www.linkedin.com/in/fabio-yuiti-goto/) / [Itch](https://yuigoto.itch.io/) / [LD](https://ldjam.com/users/yuigoto/)
+[Twitter](https://twitter.com/go_go_goto) / [LinkedIn](https://www.linkedin.com/in/fabio-yuiti-goto/) / [Itch](https://yuigoto.itch.io/) / [LD](https://ldjam.com/users/yuigoto/) / [Sourcerer](https://sourcerer.io/yuigoto)
 
 P.s.: btw, I hold a _BA in advertising_ too!
