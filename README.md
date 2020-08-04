@@ -1,4 +1,4 @@
-![©2020 Fabio Y. Goto](img/20200804-yuigoto-head.png)
+![©2020 Fabio Y. Goto](https://raw.githubusercontent.com/yuigoto/yuigoto/master/img/20200804-yuigoto-head.png)
 
 > front end developer • php developer • game developer lv. 1
 
