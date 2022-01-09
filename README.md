@@ -1,16 +1,28 @@
-![©2020 Fabio Y. Goto](https://raw.githubusercontent.com/yuigoto/yuigoto/master/img/20200804-yuigoto-head.png)
+<img src="https://raw.githubusercontent.com/yuigoto/yuigoto/master/img/yuiti_logo_github.png" alt="©2022 Fabio Y. Goto" style="width: 128px;display:block;margin:auto auto 2rem">
 
-> front end developer • php developer • game developer lv. 1
+> senior front end engineer • game developer lv. 1 • js/ts code monkey
 
-Hello! :wave:
+## Heyo! :wave:
 
-The name's **Fabio Y. Goto**, and I'm a **front end developer** from São Paulo, Brazil.
+The name's **Fabio Y. Goto**, I'm a **senior front end engineer** working from São Paulo, Brazil.
 
-For a long time I've worked as a freelance **full stack PHP** and **WordPress developer**, though in the later years I've been pretty much into **React** development in both **JavaScript** and **TypeScript**. I've also dabbled with **Node.JS** back end development.
+Worked as a freelance **PHP developer** for more than 10 years, before switching to mostly front end development over the last years.
 
-Other interests of mine include: game development, photography, music production, sound design.
+Pretty much a **JavaScript/TypeScript** code monkey.
 
-You can find some of my code below, but there's also tiny bits of me here and there around the web:
+### Languages
+
+PHP • JavaScript • TypeScript • Haxe • Java • C# • Lua • ActionScript • GML
+
+### Frameworks/Libraries
+
+React • Next.JS • Express • MikroORM • Prisma • WordPress • AngularJS • Angular • Vue • Nuxt.JS • Svelte • Preact • jQuery • Alpine • Phaser • OpenFL • HaxeFlixel
+
+### Other interests
+
+Game development • Photography • Music production • Sound design
+
+### Find me on
 
 [Twitter](https://twitter.com/go_go_goto) / [LinkedIn](https://www.linkedin.com/in/fabio-yuiti-goto/) / [Itch](https://yuigoto.itch.io/) / [LD](https://ldjam.com/users/yuigoto/) / [Sourcerer](https://sourcerer.io/yuigoto)
 
