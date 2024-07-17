@@ -51,21 +51,7 @@
 <h3 align="center">Find me on</h3>
 
 <p align="center">
-  <a href="https://www.linkedin.com/in/fabio-yuiti-goto/" target="_blank">
-    <img width="48px" src="./img/icon-linkedin.png" alt="" />
-  </a>
-  <a href="https://yuigoto.itch.io/" target="_blank">
-    <img width="48px" src="./img/icon-itch.png" alt="" />
-  </a>
-  <a href="https://www.instagram.com/fabio_goto/" target="_blank">
-    <img width="48px" src="./img/icon-instagram.png" alt="" />
-  </a>
-  <a href="https://ldjam.com/users/yuigoto/" target="_blank">
-    <img width="48px" src="./img/icon-joystick.png" alt="" />
-  </a>
-  <a href="https://twitter.com/go_go_goto" target="_blank">
-    <img width="48px" src="./img/icon-twitter.png" alt="" />
-  </a>
+  <a href="https://www.linkedin.com/in/fabio-yuiti-goto/" target="_blank"><img width="48px" src="./img/icon-linkedin.png" alt="" /></a><a href="https://yuigoto.itch.io/" target="_blank"><img width="48px" src="./img/icon-itch.png" alt="" /></a><a href="https://www.instagram.com/fabio_goto/" target="_blank"><img width="48px" src="./img/icon-instagram.png" alt="" /></a><a href="https://ldjam.com/users/yuigoto/" target="_blank"><img width="48px" src="./img/icon-joystick.png" alt="" /></a><a href="https://twitter.com/go_go_goto" target="_blank"><img width="48px" src="./img/icon-twitter.png" alt="" /></a>
 </p>
 
 -----
