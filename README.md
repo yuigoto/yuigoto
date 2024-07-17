@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/yuigoto/yuigoto/master/img/yuiti_logo_github.png" alt="©2022 Fabio Y. Goto" style="width: 128px;display:block;margin:auto auto 2rem">
+<p style="text-align:center"><img src="https://raw.githubusercontent.com/yuigoto/yuigoto/master/img/yuiti_logo_github.png" alt="©2022 Fabio Y. Goto" style="width: 128px;display:block;margin:auto auto 2rem"></p>
 
 > senior front end engineer • game developer lv. 1 • js/ts code monkey
 
